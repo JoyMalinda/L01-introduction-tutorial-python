@@ -45,7 +45,4 @@ t.begin_fill()
 t.circle(20)
 t.end_fill()
 
-t.penup()
-t.forward(120)
-
 t.exitonclick()

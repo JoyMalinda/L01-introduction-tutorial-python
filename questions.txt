@@ -1,0 +1,9 @@
+Create a program which prints the words “This is my first program”. Save it in a file called FirstProgram.py
+ 
+Create some Turtle graphics programs in appropriately named files. Try to draw:
+    a. a rectangle
+    b. two squares side by side (but not touching) – try to use exactly the same code to draw each square
+    c. a triangle
+    d. a yellow house with a red roof (a square with a triangle on top – don’t bother with windows and doors!)
+    e. an orange hexagon with thick purple sides
+    f. if you found those all really easy, try experimenting with the circle command to draw something interesting
